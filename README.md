@@ -19,5 +19,5 @@ This is what the app should display, I am in the process of fixing my react erro
 
 
 ### For questions: 
-*Github: https://github.com/luisvilla315
-*Emial: Luisvilladev@gmail.com
+- Github: https://github.com/luisvilla315
+- Emial: Luisvilladev@gmail.com
