@@ -10,7 +10,7 @@ This is what the app should display, I am in the process of fixing my react erro
 - apollo/client
 
 # Usage
-- INSTALL NODE - npm i
+- INSTALL NODE - NPM I
 - RUN - NPM START
 
 
